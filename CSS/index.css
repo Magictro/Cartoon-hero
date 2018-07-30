@@ -1,28 +1,9 @@
-body{
-    background-color: grey;
-}
-h1{
-color: white;
-font-size: 90px;
-text-decoration: underline;
-}
-
-h2{
-font-size: 22px;
-color: black;
-}
-
-#first{
-font-size:150px;
-}
-
-.small{
-font-size: 24px
-}
-span{
-	font-style: italic;
-}
-
 h2 span{
-	text-decoration: line-through;
-}
+header {text-align: center;}
+
+body {text-align: justify; 
+display: inline-block; text-align: justify; left: 50%; top: 50%; width:50%; height:50%; z-index: 1000;
+margin-left: 20%; margin-top: 7%;}
+p.content{width: 200px; color: purple;}
+h2 {color: purple;}
+img.class{height: 500px; width: 500px;}
