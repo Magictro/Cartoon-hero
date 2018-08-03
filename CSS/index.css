@@ -1,8 +1,12 @@
 header {text-align: center;}
-
 body {text-align: justify; 
 display: inline-block; text-align: justify; left: 50%; top: 50%; width:50%; height:50%; z-index: 1000;
-margin-left: 20%; margin-top: 7%;}
+margin-left: 10%; margin-top: 7%;}
+body {animation: "Community 2_3.gif";}
 p.content{width: 200px; color: purple;}
-h2 {color: purple;}
-img.class{height: 500px; width: 500px;}
+h1 {font-family: "Bodoni 72"; font-size: 100px; text-align: left; margin-top: 100px;}
+h2 {color: black; font-family: "Gill Sans"; font-size: 40px;}
+img.src={border-radius: 25px 50px;}
+img.class{height: 500px; width: 500px; border-radius: 25px;}
+p {font-family: Gill Sans; font-size: 40}
+video{margin-right: 80px;}
